@@ -1,5 +1,5 @@
 /*
-# [PROBLEM_LINK](https://www.codechef.com/problems-old/KNGTOR)
+PROBLEM_LINK - https://www.codechef.com/problems-old/KNGTOR
 */
 #include "bits/stdc++.h"
 using namespace std;
